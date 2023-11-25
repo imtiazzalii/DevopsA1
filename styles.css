@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #571216;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  nav {
+    background-color: #fad5c2;
+    color: #fff;
+    padding: 0.5em;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 1em;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .intro, .projects, .education {
+    padding: 2em;
+  }
+  
+  footer {
+    background-color: #571216;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
